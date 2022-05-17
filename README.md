@@ -10,3 +10,5 @@ the super classes. The main thing to learn is the importance of the ``virtual``
 keyword, which allows runtime dispatching.
 
 © Copyright 2022 [mhahnFr](https://www.github.com/mhahnFr)
+
+[42 school]: https://www.42heilbronn.de/learncoderepeat
